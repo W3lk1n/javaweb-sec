@@ -12,7 +12,7 @@
 
 @GitBook: [javasec.org](https://www.javasec.org/)
 
-@Email: yzmmsec@outlook.com
+@Email: admin@javaweb.org、su18@javaweb.org
 
 @Date 2019-12-01
 
